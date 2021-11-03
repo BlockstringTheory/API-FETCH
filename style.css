@@ -1,0 +1,19 @@
+/* style.css */
+body { 
+ background: linear-gradient(to right, #000000, #000000); 
+ color: #ffffff;
+}
+.quote-body { 
+ margin: auto; 
+ width: 400px; 
+ height: 200px; 
+ margin-top: 150px;
+}
+#quote { 
+ font-size: 40px; 
+ font-weight: bold;
+}
+.author {
+ font-weight: normal;
+ font-size: 20px
+}
